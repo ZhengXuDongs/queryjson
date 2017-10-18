@@ -1,0 +1,11 @@
+{
+  "name": "queryjson",
+  "version": "1.0.0",
+  "description": "An example for an object to remove the item where the value is null or \" \". ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zxd",
+  "license": "ISC"
+}
