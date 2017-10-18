@@ -12,7 +12,7 @@ const param = {
     userType:''
 };
 
-const cc = queryjson(param);
+const cc = queryjson.queryjson(param);
 
 // cc = {
     userName:'11',
@@ -20,3 +20,5 @@ const cc = queryjson(param);
     email:'11',
     tel:'1'
  }
+ const dd = queryjson.queryjsontostring(param)
+ // dd = 'userName=11&password=11&email=11&tel=1'
