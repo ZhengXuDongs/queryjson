@@ -9,4 +9,5 @@ const param = {
     tel:'1',
     userType:''
 };
-console.log(queryjson(param));
+console.log(queryjson.queryjson(param));
+console.log(queryjson.queryjsontostring(param));
