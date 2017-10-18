@@ -20,5 +20,7 @@ const cc = queryjson.queryjson(param);
     email:'11',
     tel:'1'
  }
+ 
  const dd = queryjson.queryjsontostring(param)
+ 
  // dd = 'userName=11&password=11&email=11&tel=1'
